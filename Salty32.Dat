@@ -1,0 +1,54 @@
+﻿Field=#~Integer~#~50|Field=Quantity~Integer~Quantity~200|Field=Designator~String~Designator~419|Field=Value~String~Value~198|Field=Footprint~String~Footprint~121|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~Salty32.PrjPcb|ReportField=ProjectFullPath~F:\WorkDir\EleProjects\Salty32_NotEnoughSalt\Salty32.PrjPcb|ReportField=Title~Bill of Materials For Project [Salty32.PrjPcb] (No PCB Document Selected)|ReportField=TotalQuantity~183|ReportField=ReportTime~1:54:51|ReportField=ReportDate~2017/5/25|ReportField=ReportDateTime~2017/5/25 1:54:51|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~2017/5/25|ReportField=CurrentTime~1:54:40|ReportField=Date~|ReportField=DocumentFullPathAndName~F:\WorkDir\EleProjects\Salty32_NotEnoughSalt\CPLD.SchDoc|ReportField=DocumentName~CPLD.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~2017/5/25|ReportField=Organization~|ReportField=ProjectName~Salty32.PrjPcb|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~|ReportField=DataSourceFileName~Salty32.PrjPcb|ReportField=DataSourceFullPath~F:\WorkDir\EleProjects\Salty32_NotEnoughSalt\Salty32.PrjPcb|ReportField=PCBConfigurationName~Default Configuration|ReportField=Item~|ReportField=ItemRevision~|ReportField=ItemAndRevision~|ReportField=ItemRevisionBase~|ReportField=ItemRevisionLevel1~|ReportField=ItemRevisionLevel2~|ReportField=ItemRevisionLevel1AndBase~|ReportField=ItemRevisionLevel2AndLevel1~
+1|1|D203||SOD323
+2|1|LCM502||LCM4.3_ATK
+3|1|LCM501||LCM5.0
+4|1|Q201||SOT-23
+5|1|AD9959||IDC16
+6|1|U101||DCY4
+7|1|B201||BEEPER
+8|1|SERIAL||201S2X3
+9|1|GPIO||201S2X16
+10|1|U901||TQFP144_N
+11|1|FB101|600R|1206L
+12|3|FB501, FB502, FB503|200R|0805L
+13|1|FPGA_PAR||IDC30
+14|11|FPGA_SER, GPIO0, GPIO1, GPIO2, GPIO3, GPIO4, GPIO5, GPIO6, GPIO7, TIMER, ZLG7290||IDC10
+15|1|U301||ISSI-TSOP-1-48-12000X20000DE_N
+16|1|JTAG1||JTAG20
+17|1|JTAG2||JTAG10
+18|7|LED101, LED201, LED202, LED203, LED204, LED701, LED801||LED1206R
+19|1|USB32||USB-MICRO
+20|1|C222|470nF|0603C
+21|10|C104, C224, C501, C503, C504, C506, C507, C509, C801, C915|100nF|0805C
+22|2|C102, C103|100uF|1210C
+23|2|C216, C913|1uF|0805C
+24|2|C218, C219|2.2uF|0805C
+25|2|C702, C703|47pF|0603C
+26|3|C502, C505, C508|10uF|0805C
+27|37|C101, C201, C202, C203, C204, C205, C206, C207, C208, C209, C210, C211, C212, C213, C214, C215, C220, C221, C223, C225, C301, C302, C401, C701, C901, C902, C903, C904, C905, C906, C907, C908, C909, C910, C911, C912, C914|100nF|0603C
+28|2|H1, H2||MOUNTHOLE
+29|1|X901|50MHz|XTAL-7050
+30|1|D101||SMB
+31|2|RP202, RP823|4.7K|8P4R_0603
+32|22|RP801, RP802, RP803, RP804, RP805, RP806, RP807, RP808, RP809, RP810, RP811, RP812, RP813, RP814, RP815, RP816, RP817, RP818, RP819, RP820, RP821, RP822|100|8P4R_0603
+33|9|RP201, RP601, RP602, RP603, RP604, RP605, RP606, RP607, RP901|33|8P4R_0603
+34|1|R203|20K|0603R
+35|1|R204|30K|0603R
+36|1|R701|33K|0603R
+37|1|R818|470|0603R
+38|13|R801, R803, R805, R807, R809, R811, R813, R815, R817, R821, R822, R823, R824|100|0603R
+39|2|R202, R901|10K|0603R
+40|2|R205, R902|1K|0603R
+41|2|R601, R603|33|0603R
+42|3|R201, R702, R703|22|0603R
+43|7|R101, R501, R502, R602, R704, R819, R820|4.7K|0603R
+44|8|R802, R804, R806, R808, R810, R812, R814, R816|0|0603R
+45|1|D102||SMA
+46|1|U401||MCHP-TSOP-EK48_N
+47|1|U201||STM-LQFP176_N
+48|1|SWRST||SW-0606
+49|1|BL_CTR||SWITCH
+50|1|JBOOT0||SWITCH_2CH_LINE
+51|1|U701|Value|DBV6
+52|1|U202||W25Qxx
+53|1|PWR||VH3.96-POWER-2P
